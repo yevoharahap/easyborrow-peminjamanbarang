@@ -13,15 +13,14 @@ Aplikasi dibangun menggunakan Laravel Framework dengan arsitektur CRUD yang teri
 - Meningkatkan akurasi data inventaris
 
 ## 🚀 Fitur Utama
-
-✅ Manajemen data barang (tambah, edit, hapus)
-✅ Pengajuan peminjaman barang oleh pengguna
-✅ Persetujuan / penolakan peminjaman oleh admin
-✅ Pengembalian barang dan update status otomatis
-✅ Monitoring stok barang tersedia / dipinjam
-✅ Riwayat peminjaman terdokumentasi
-✅ Sistem autentikasi login pengguna & admin
-✅ Dashboard informasi peminjaman
+-✅ Manajemen data barang (tambah, edit, hapus)
+-✅ Pengajuan peminjaman barang oleh pengguna
+-✅ Persetujuan / penolakan peminjaman oleh admin
+-✅ Pengembalian barang dan update status otomatis
+-✅ Monitoring stok barang tersedia / dipinjam
+-✅ Riwayat peminjaman terdokumentasi
+-✅ Sistem autentikasi login pengguna & admin
+-✅ Dashboard informasi peminjaman
 
 ## 🧠 Teknologi yang Digunakan
 
