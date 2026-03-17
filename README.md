@@ -1,19 +1,3 @@
-<p align="center">
-<img src="https://laravel.com/img/logomark.min.svg" width="120">
-</p>
-
-<p align="center">
-
-<a href="https://github.com/laravel/framework">
-<img src="https://img.shields.io/badge/Laravel-Framework-red?style=for-the-badge&logo=laravel&logoColor=white">
-</a>
-
-<img src="https://img.shields.io/badge/PHP-%3E%3D8.1-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-</p>
-
 
 ## 📦 EasyBorrow — Sistem Peminjaman Barang Berbasis Web
 
